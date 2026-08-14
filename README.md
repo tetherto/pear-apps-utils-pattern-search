@@ -1,3 +1,6 @@
+> [!WARNING]
+> 🍐 PearPass is currently paused from active development, so please use at your own caution until further notice.
+
 # pear-apps-utils-pattern-search
 
 A simple utility to search for patterns in a list
